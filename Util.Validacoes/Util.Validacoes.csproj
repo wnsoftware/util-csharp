@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Willian</Authors>
+    <Company>WN Sistemas de Informação</Company>
+    <Description>Biblioteca com funções para validações de dados.</Description>
+  </PropertyGroup>
+
+</Project>

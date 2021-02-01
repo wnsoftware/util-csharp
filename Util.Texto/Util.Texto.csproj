@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Willian</Authors>
+    <Company>WN Sistemas de Informação</Company>
+    <Description>Biblioteca de funções para manipular strings</Description>
+    <Copyright>WN</Copyright>
+    <Product>Util.Texto</Product>
+  </PropertyGroup>
+
+</Project>
